@@ -24956,10 +24956,10 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
   "class": "text-4xl font-semibold text-blue-700"
 }, "VỀ CHÚNG TÔI"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-  "class": "mb-16 mt-6 text-lg"
+  "class": "mb-14 mt-6 text-lg"
 }, " Wetech sẽ tập trung phát triển công nghệ theo hướng IOT. Trong đó sẽ tập trung đẩy mạnh thi công lắp đặt thiết bị công nghệ, thiết bị gia dụng hiện đại. "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "grid grid-cols-3 justify-items-stretch gap-5"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("Tầm nhìn class=\"h-70 rounded-2xl shadow group cursor-pointer\""), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "relative group cursor-pointer flex justify-center"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   src: _image_tamnhin_png__WEBPACK_IMPORTED_MODULE_1__["default"],
@@ -24970,7 +24970,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
   "class": "\r\n                  mt-16\r\n                  text-2xl\r\n                  font-bold\r\n                  text-blue-700\r\n                  hover:text-blue-400\r\n                "
 }, " TẦM NHÌN ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-  "class": "mt-3 text-lg"
+  "class": "mt-2 text-lg"
 }, " Sự đô thị hóa và khủng hoảng an ninh môi trường gây ra sự rối loạn trong cân đối dinh dưỡng và tinh thần. ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "relative group cursor-pointer flex justify-center"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
@@ -25012,7 +25012,7 @@ var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "w-full h-full bg-gray-700 absolute top-0 left-0 bg-opacity-25"
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-  "class": "\r\n            absolute\r\n            top-1/4\r\n            left-1/3\r\n            text-2xl text-white\r\n            font-medium\r\n            text-center\r\n          "
+  "class": "\r\n            absolute\r\n            top-1/3\r\n            left-1/3\r\n            text-2xl text-white\r\n            font-medium\r\n            text-center\r\n          "
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "text-4xl font-bold pb-6"
 }, "VĂN HÓA"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" 6 chữ gói gọn văn hóa của chúng tôi"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" \"Nhiệt tình - Thật thà - Chuyên nghiệp\" ")])])], -1
@@ -27247,11 +27247,11 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "bg-white overflow-hidden shadow-xl sm:rounded-lg"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "p-6 sm:px-20 bg-white border-b border-gray-200 text-gray-600"
+  "class": "p-6 sm:px-20 bg-white border-b border-gray-200"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", {
-  "class": "p-8 text-2xl text-center text-gray-900 font-bold"
+  "class": "p-8 text-2xl text-center font-bold"
 }, " PHÂN LOẠI HÀNG HÓA THEO TỪNG KHU VỰC BẰNG MÃ QR THÔNG QUA CÔNG NGHỆ XỬ LÝ HÌNH ẢNH "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-  "class": "mt-4 text-gray-900 font-bold"
+  "class": "mt-4 font-bold text-gray-900"
 }, " Người thực hiện: ??? "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
   "class": "mt-2"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
@@ -27291,27 +27291,27 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, "Khảo sát thực tế tại các khu vực trung chuyển."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, "Tìm kiếm, tra cứu thông tin về các vấn đề liên quan như: PLC, băng tải…"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, "Lập trình các chương trình rời rạc cho từng thiết bị."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, "Tổng hợp các chương trình con thành chương trình chính của toàn hệ thống."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, "Tiến hành thực hiện hệ thống demo, kiểm tra, điều chỉnh thông số."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, "Thiết kế khung cơ khí, tủ điều khiển cho hệ thống."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, "Lắp đặt toàn bộ thiết bị vào khung,vận hành, hiệu chỉnh chương trình. Kiểm tra khắc phục lỗi, đưa vào hoạt động.")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
   "class": "mt-4"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "class": "font-bold text-gray-900"
+  "class": "font-bold"
 }, "Nội dung nghiên cứu"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
   "class": "mt-2 pl-7 list-disc"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "class": "font-bold text-gray-900"
+  "class": "font-bold"
 }, "Nội dung 1:"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Xử lý hình ảnh bằng thư viện OpenCV với python. Xử lý các hình ảnh đơn giản sau đó xử lý và nhận diện hình ảnh có chứa mã QR. Xử lý dữ liệu và chia dữ liệu theo khu vực ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "class": "font-bold text-gray-900"
+  "class": "font-bold"
 }, "Nội dung 2:"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Lập trình PLC S7-1200 để điều khiển băng tải (băng tải dây đai PVC, băng tải đa hướng, băng tải con lăn) và phân loại theo khu vực. Thông qua cách lập trình con điều khiển độc lập các băng tải, sau đó ghép các chương trình thành chương trình điều khiển hệ thống hoàn chỉnh. ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "class": "font-bold text-gray-900"
+  "class": "font-bold"
 }, "Nội dung 3:"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Tiến hành thiết kế hệ thống demo với kích thước 120x120cm. Chạy thử nghiệm, kiểm tra độ ổn định của hệ thống, khắc phục điều chỉnh sai số hệ thống. ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "class": "font-bold text-gray-900"
+  "class": "font-bold"
 }, "Nội dung 4:"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Thiết kế khung cơ khí cho hệ thống, lắp đặt các động cơ, băng tải, camera, màn hình hiển thị…và căn chỉnh phù hợp điều kiện môi trường. ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "class": "font-bold text-gray-900"
+  "class": "font-bold"
 }, "Nội dung 5:"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Thiết kế, lắp đặt tủ điều khiển cho hệ thống bao gồm các nút điều khiển và 3 nút cơ bản start, stop, khẩn cấp. ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-  "class": "font-bold text-gray-900"
+  "class": "font-bold"
 }, "Nội dung 6:"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Hiệu chỉnh phần mềm, vận hành, kiểm tra và đưa vào hoạt động. ")])])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
   "class": "mt-4 font-bold text-gray-900"
 }, " Tiến độ thực hiện "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("table", {
   "class": "mt-2 table-auto border-collapse border border-black"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("thead", {
-  "class": "text-center text-gray-900 font-bold"
+  "class": "text-center font-bold"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("tr", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("th", {
   "class": "border border-black"
 }, "STT"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("th", {

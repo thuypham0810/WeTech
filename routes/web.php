@@ -35,3 +35,4 @@ Route::get('/home', function(){
 Route::get('/topic', function () {
     return Inertia::render('Topic');
 })->name('topic');
+
