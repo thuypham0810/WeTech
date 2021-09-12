@@ -3,13 +3,12 @@
     <div class="pt-6 px-72">
       <div class="p-6 text-center">
         <h1 class="text-4xl font-semibold text-blue-700">VỀ CHÚNG TÔI</h1>
-        <p class="mb-16 mt-6 text-lg">
+        <p class="mb-14 mt-6 text-lg">
           Wetech sẽ tập trung phát triển công nghệ theo hướng IOT. Trong đó sẽ
           tập trung đẩy mạnh thi công lắp đặt thiết bị công nghệ, thiết bị gia
           dụng hiện đại.
         </p>
         <div class="grid grid-cols-3 justify-items-stretch gap-5">
-          <!--Tầm nhìn class="h-70 rounded-2xl shadow group cursor-pointer"-->
           <div>
             <div class="relative group cursor-pointer flex justify-center">
               <img
@@ -37,7 +36,7 @@
                 TẦM NHÌN
               </h1>
             </div>
-            <p class="mt-3 text-lg">
+            <p class="mt-2 text-lg">
               Sự đô thị hóa và khủng hoảng an ninh môi trường gây ra sự rối loạn
               trong cân đối dinh dưỡng và tinh thần.
             </p>
