@@ -36,3 +36,6 @@ Route::get('/topic', function () {
     return Inertia::render('Topic');
 })->name('topic');
 
+Route::get('/product', function () {
+    return Inertia::render('Product');
+})->name('product');

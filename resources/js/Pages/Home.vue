@@ -17,7 +17,7 @@
                 class="
                   h-20
                   w-20
-                  group-hover:transform group-hover:scale-50
+                  group-hover:transform group-hover:scale-150
                   transition-all
                   duration-700
                 "
@@ -36,7 +36,7 @@
                 TẦM NHÌN
               </h1>
             </div>
-            <p class="mt-2 text-lg">
+            <p class="mt-1.5 text-lg">
               Sự đô thị hóa và khủng hoảng an ninh môi trường gây ra sự rối loạn
               trong cân đối dinh dưỡng và tinh thần.
             </p>
@@ -49,7 +49,7 @@
                 class="
                   h-20
                   w-22
-                  group-hover:transform group-hover:scale-50
+                  group-hover:transform group-hover:scale-150
                   transition-all
                   duration-700
                 "
@@ -81,7 +81,7 @@
                 class="
                   h-20
                   w-20
-                  group-hover:transform group-hover:scale-50
+                  group-hover:transform group-hover:scale-150
                   transition-all
                   duration-700
                 "
@@ -104,6 +104,8 @@
                 thật thà, chuyên nghiệp.
               </p>
             </div>
+          </div>
+          <div>
           </div>
         </div>
       </div>
